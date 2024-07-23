@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{C2693DED-3FE5-4667-B237-DC4B3A111E4A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{040C3628-66B4-4729-BE4C-6C13442E37D5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api", "backend\api\api.csproj", "{4AF025FD-705D-46F4-95F0-BC620672388F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api", "backend\api\api.csproj", "{39B4F7B3-A4F4-4A18-8515-46D68267895B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,18 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4AF025FD-705D-46F4-95F0-BC620672388F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4AF025FD-705D-46F4-95F0-BC620672388F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4AF025FD-705D-46F4-95F0-BC620672388F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4AF025FD-705D-46F4-95F0-BC620672388F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B4F7B3-A4F4-4A18-8515-46D68267895B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B4F7B3-A4F4-4A18-8515-46D68267895B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B4F7B3-A4F4-4A18-8515-46D68267895B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B4F7B3-A4F4-4A18-8515-46D68267895B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{4AF025FD-705D-46F4-95F0-BC620672388F} = {C2693DED-3FE5-4667-B237-DC4B3A111E4A}
+		{39B4F7B3-A4F4-4A18-8515-46D68267895B} = {040C3628-66B4-4729-BE4C-6C13442E37D5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5ABD1210-2902-43DC-B188-75012941895F}
+		SolutionGuid = {AC6A34EE-2FC6-4EFB-9A3A-2FF70DE37CBC}
 	EndGlobalSection
 EndGlobal
