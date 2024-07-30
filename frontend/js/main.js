@@ -2,7 +2,7 @@ window.addeventListener('DOMContentLoaded', (event) =>{
     getVisitCount();
 })
 
-const functionApi = '';
+const functionApi = 'http://localhost:7072/api/GetResmeCounter';
 
 const getVisitCount =() => {
     let count = 30;
